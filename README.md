@@ -12,6 +12,19 @@ Amazon Prime is another one of the most popular media and video streaming platfo
  ![](amazonVideo.png)
 
 
+### (The Netflix dashboard visualizes trends in movies and TV shows with data up to the year 2021)(https://public.tableau.com/app/profile/ahmed.hegazy/viz/NetflixDashboard_17340253047630/Netfilx)
+
+Key takeaways:
+
+- Movie dominance: The number of movies on Netflix significantly surpasses TV shows, with a notable surge in movie releases around 2020.
+- Genre popularity: Documentaries and international movies hold a strong presence, followed by comedies, dramas (especially international), and children's/family content.
+- Regional variations: The map suggests content from specific regions, like the United States and Europe, might be more prevalent on the platform.
+- Movie vs. TV show split: Movies account for 63.07% of Netflix content, while TV shows make up 36.93%.
+- The dashboard effectively uses various visualizations like line charts, bar graphs, pie charts, and a world map to represent these trends. This allows for a comprehensive understanding of Netflix's content distribution across genres, time, and potentially regions.
+
+he dashboard effectively uses various visualizations like line charts, bar graphs, pie charts, and a world map to represent these trends. 
+This allows for a comprehensive understanding of Netflix's content distribution across genres, time, and potentially regions.
+![](Netfilx.png)
 
 
 
