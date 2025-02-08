@@ -35,7 +35,7 @@ This dashboard provides a comprehensive overview of HPN sales and profit perform
 ![BIG](hpnsales.png)   ![BIG](Profit.png)      ![BIG](Qualityandorders.png)  ![BIG](Country.png)  ![BIG](SalesandprofitDashboard.png)  
 
 
-
+--------------
 ### [BMW Car Sales Dashboar](https://public.tableau.com/app/profile/ahmed.hegazy/viz/Book1_17247314164760/BigPicture) | [ViZ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/Book1_17247314164760/BigPicture) | [Exploration](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAhmedHegazy121%2FportfolioProjects%2Fmain%2FExploration.pptx&wdOrigin=BROWSELINK)
 
 
@@ -56,7 +56,7 @@ The third dashboard dives deep into each BMW model, offering detailed and intera
 ![BIG](KPis.png)
 
 
-
+-----------------
 
 
 ### [Comprehensive Trend and Variance Analysis of Copier Sales with Sub-Category Performance Comparison](https://public.tableau.com/app/profile/ahmed.hegazy/viz/spirkline/Currentyearsale)
@@ -95,7 +95,7 @@ The third dashboard dives deep into each BMW model, offering detailed and intera
 
 
 
-
+------------
 
 
 
@@ -122,7 +122,7 @@ Cyclistic’s collected data forms the backbone of this analysis. For transparen
 
 ![Sales Performance Dashboard](Share_Bike.png)
 
-
+---------
 
 
 ### [Sales Performance Dashboard](https://www.linkedin.com/posts/hegazy-ahmed_sales-dashboard-activity-7222760336511107072-B8-r?utm_source=share&utm_medium=member_desktop) | [Video](https://www.linkedin.com/posts/hegazy-ahmed_dataanalysis-tableau-salesdashboard-activity-7220992076723720193-jkez?utm_source=share&utm_medium=member_desktop) | [persentation](https://www.linkedin.com/posts/hegazy-ahmed_sales-dashboard-activity-7222760336511107072-B8-r?utm_source=share&utm_medium=member_desktop) 
@@ -159,8 +159,59 @@ Top 10 Customers By Profit
 
 ![Sales Performance Dashboard](Sales.PNG)
 
+------
+#### COVID-19 in India Dashboard
 
+This dashboard provides a comprehensive overview of the COVID-19 situation in India, including key metrics, trends, and visualizations.
 
+#### Dashboard Overview
+- **Creator**: Ahmed Hegazy
+- **Platform**: Tableau Public
+- **Link**: [COVID-19 in India Dashboard](https://public.tableau.com/app/profile/ahmed.hegazy/viz/Covid-19inIndiaDashboard_17349784871950/Dashboard1)
+
+#### Key Metrics
+- **Total Cases**: [Insert Total Cases]
+- **Total Deaths**: [Insert Total Deaths]
+- **Total Recoveries**: [Insert Total Recoveries]
+- **Active Cases**: [Insert Active Cases]
+- **Vaccination Coverage**: [Insert Vaccination Coverage]
+
+#### Visualizations
+1. **Cases Over Time**:
+   - Line chart showing the progression of COVID-19 cases over time.
+   
+2. **Deaths Over Time**:
+   - Line chart illustrating the number of deaths over time.
+
+3. **Recoveries Over Time**:
+   - Line chart depicting the number of recoveries over time.
+
+4. **Geographical Distribution**:
+   - Map showing the distribution of cases across different states in India.
+
+5. **Vaccination Progress**:
+   - Bar chart or line chart showing the progress of vaccination campaigns.
+
+6. **Demographic Analysis**:
+   - Pie charts or bar graphs showing the distribution of cases by age group, gender, or other demographics.
+
+#### Insights
+- **Trend Analysis**: The dashboard highlights the trends in cases, deaths, and recoveries, providing insights into the progression of the pandemic.
+- **Geographical Hotspots**: Identifies states with the highest number of cases and deaths.
+- **Vaccination Impact**: Shows the correlation between vaccination rates and the reduction in cases or severity.
+
+#### Usage
+This dashboard can be used by policymakers, healthcare professionals, and the general public to understand the COVID-19 situation in India and make informed decisions.
+
+#### How to Access
+- Visit the Tableau Public profile of Ahmed Hegazy.
+- Navigate to the "COVID-19 in India Dashboard" to interact with the visualizations and explore the data in detail.
+
+#### Contributing
+If you have additional data or suggestions for improving the dashboard, please contact the creator through Tableau Public.
+
+![](Covid_19.png)
+------
 ###  [Break Down between Female and Male Dashboard ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/BreakdownbetweenMandF/Dashboard1) | **[Link to VIZ ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/BreakdownbetweenMandF/Dashboard1)**
 **Key Responsibilities:**
 
@@ -182,7 +233,7 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 
 
 ![photo](F_M.png)
-
+----
 
 ### [Amazon Prime Video - Movies and TV Shows](https://public.tableau.com/app/profile/ahmed.hegazy/viz/AmazonPrimeVideo_17337669603610/Dashboard1)
 **About this Dataset:**
@@ -193,8 +244,8 @@ Amazon Prime is another one of the most popular media and video streaming platfo
 - Network analysis of Actors / Directors and find interesting insights
 - Does Amazon Prime has more focus on TV Shows than movies in recent years.
  ![](amazonVideo.png)
-
-
+  
+-----
 ### (The Netflix dashboard visualizes trends in movies and TV shows with data up to the year 2021)(https://public.tableau.com/app/profile/ahmed.hegazy/viz/NetflixDashboard_17340253047630/Netfilx)
 
 Key takeaways:
@@ -209,7 +260,7 @@ he dashboard effectively uses various visualizations like line charts, bar graph
 This allows for a comprehensive understanding of Netflix's content distribution across genres, time, and potentially regions.
 ![](Netfilx.png)
 
-
+-------
 ### [Salary Distribution for the Accounting Department in San Francisco](https://public.tableau.com/views/BreakingdownbetweenEmployees/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Tasks :
